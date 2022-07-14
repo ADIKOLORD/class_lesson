@@ -1,5 +1,5 @@
 class Samsung:
-aafffaaaa
+aafffaaaaf
     def __init__(self, color: str, memory: int, battery: int):
         '''
         Обязательные аргументы при создании Экземпляра
